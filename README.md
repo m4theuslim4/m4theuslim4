@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kmt901/lim4th3us/blob/main/Jetpack_logo.PNG" alt="Android Jetpack logo" width=350px height=465px/>
+<img align="right" src="https://github.com/kmt901/lim4th3us/blob/master/Jetpack_logo.png" alt="Android Jetpack logo" width=350px height=465px/>
 
 ### Hi, i'm Matheus 👋
 
