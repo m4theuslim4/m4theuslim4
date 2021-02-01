@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/lim4th3us/lim4th3us/blob/main/android-paint-transparent2.png" alt="Android symbol painting" width=400px height=400px/>
+<img align="right" src="https://github.com/lim4th3us/lim4th3us/blob/main/android-paint-transparent3.png" alt="Android symbol painting" width=400px height=400px/>
 
 ### Hi, i'm Matheus 👋
 
