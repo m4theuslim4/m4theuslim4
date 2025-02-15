@@ -4,8 +4,7 @@
 
 I'm Android developer, Kotlin fan. Focused on write clean and readable codes
 
-- 🔭 I’m currently working on [Muxi](http://www.muxi.com/)
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: matheuslima9412@gmail.com or [@limatheus94](https://twitter.com/limatheus94)
+- 🔭 I’m currently working on [PicPay](https://picpay.com/)
+- 📫 How to reach me: matheuslima9412@gmail.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4theuslim4&layout=compact&theme=vue" />
